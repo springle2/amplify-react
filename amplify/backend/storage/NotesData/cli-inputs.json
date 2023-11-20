@@ -1,0 +1,14 @@
+{
+  "resourceName": "NotesData",
+  "policyUUID": "cabe3720",
+  "bucketName": "amplifyreact0b7cf37642ee4f509490493e9e3685ee",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
